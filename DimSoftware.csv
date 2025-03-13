@@ -1,0 +1,57 @@
+SoftwareId,SoftwareVendor,SoftwareName,SoftwareVersion,EndOfSupportStatus,EndOfSupportDate,ProductCodeCpe
+sw-0000,Microsoft,Office,17.8.0,Supported,2025-07-12,cpe:/a:microsoft:office:17.8.0
+sw-0001,Microsoft,Office,12.4.15,Supported,2025-09-19,cpe:/a:microsoft:office:12.4.15
+sw-0002,Microsoft,Office,5.3.2,Supported,2026-05-15,cpe:/a:microsoft:office:5.3.2
+sw-0003,Microsoft,Windows,15.8.16,Supported,2026-04-19,cpe:/a:microsoft:windows:15.8.16
+sw-0004,Microsoft,Windows,1.4.2,Supported,2025-03-12,cpe:/a:microsoft:windows:1.4.2
+sw-0005,Microsoft,Edge,16.7.5,Supported,2026-12-28,cpe:/a:microsoft:edge:16.7.5
+sw-0006,Microsoft,Edge,8.9.3,Supported,2027-01-27,cpe:/a:microsoft:edge:8.9.3
+sw-0007,Microsoft,SQL Server,5.8.3,Supported,2026-07-15,cpe:/a:microsoft:sql_server:5.8.3
+sw-0008,Microsoft,SQL Server,17.8.0,Supported,2026-06-04,cpe:/a:microsoft:sql_server:17.8.0
+sw-0009,Microsoft,Visual Studio,13.2.5,Supported,2025-11-11,cpe:/a:microsoft:visual_studio:13.2.5
+sw-0010,Microsoft,Teams,15.8.1,OutOfSupport,2023-10-13,cpe:/a:microsoft:teams:15.8.1
+sw-0011,Adobe,Acrobat Reader,13.4.0,Supported,2025-07-24,cpe:/a:adobe:acrobat_reader:13.4.0
+sw-0012,Adobe,Acrobat Reader,15.0.10,Supported,2025-05-02,cpe:/a:adobe:acrobat_reader:15.0.10
+sw-0013,Adobe,Photoshop,17.0.1,OutOfSupport,2023-11-07,cpe:/a:adobe:photoshop:17.0.1
+sw-0014,Adobe,Illustrator,17.4.4,Supported,2026-05-11,cpe:/a:adobe:illustrator:17.4.4
+sw-0015,Adobe,Illustrator,5.4.4,Supported,2025-05-22,cpe:/a:adobe:illustrator:5.4.4
+sw-0016,Adobe,InDesign,14.8.13,Supported,2027-01-14,cpe:/a:adobe:indesign:14.8.13
+sw-0017,Adobe,Premiere Pro,4.0.16,Supported,2025-04-03,cpe:/a:adobe:premiere_pro:4.0.16
+sw-0018,Oracle,Java,8.6.1,Supported,2025-12-31,cpe:/a:oracle:java:8.6.1
+sw-0019,Oracle,Java,12.0.11,Supported,2026-04-05,cpe:/a:oracle:java:12.0.11
+sw-0020,Oracle,Java,16.6.14,Supported,2026-09-29,cpe:/a:oracle:java:16.6.14
+sw-0021,Oracle,MySQL,19.6.5,Supported,2025-12-31,cpe:/a:oracle:mysql:19.6.5
+sw-0022,Oracle,MySQL,2.1.14,Supported,2026-05-21,cpe:/a:oracle:mysql:2.1.14
+sw-0023,Oracle,MySQL,2.3.5,Supported,2026-01-29,cpe:/a:oracle:mysql:2.3.5
+sw-0024,Oracle,VirtualBox,10.2.16,Supported,2025-07-16,cpe:/a:oracle:virtualbox:10.2.16
+sw-0025,Oracle,VirtualBox,17.9.16,Supported,2025-05-08,cpe:/a:oracle:virtualbox:17.9.16
+sw-0026,Oracle,WebLogic,6.4.1,Supported,2025-04-12,cpe:/a:oracle:weblogic:6.4.1
+sw-0027,Oracle,WebLogic,16.2.14,OutOfSupport,2023-07-02,cpe:/a:oracle:weblogic:16.2.14
+sw-0028,Google,Chrome,11.5.15,Supported,2026-02-23,cpe:/a:google:chrome:11.5.15
+sw-0029,Google,Chrome,4.7.2,Supported,2026-12-27,cpe:/a:google:chrome:4.7.2
+sw-0030,Google,Chrome,18.9.18,OutOfSupport,2023-01-05,cpe:/a:google:chrome:18.9.18
+sw-0031,Google,Drive,10.5.5,OutOfSupport,2023-08-21,cpe:/a:google:drive:10.5.5
+sw-0032,Google,Drive,12.9.13,Supported,2025-05-17,cpe:/a:google:drive:12.9.13
+sw-0033,Google,Earth,13.8.14,Supported,2025-10-25,cpe:/a:google:earth:13.8.14
+sw-0034,Google,Earth,11.0.3,Supported,2026-11-15,cpe:/a:google:earth:11.0.3
+sw-0035,Apple,iTunes,15.7.13,Supported,2025-05-17,cpe:/a:apple:itunes:15.7.13
+sw-0036,Apple,iTunes,2.9.13,OutOfSupport,2023-01-07,cpe:/a:apple:itunes:2.9.13
+sw-0037,Apple,iTunes,3.6.13,Supported,2026-07-21,cpe:/a:apple:itunes:3.6.13
+sw-0038,Apple,Safari,18.9.5,Supported,2025-03-15,cpe:/a:apple:safari:18.9.5
+sw-0039,Apple,iCloud,5.9.6,Supported,2025-10-17,cpe:/a:apple:icloud:5.9.6
+sw-0040,Mozilla,Firefox,12.8.16,Supported,2025-03-25,cpe:/a:mozilla:firefox:12.8.16
+sw-0041,Mozilla,Firefox,4.9.2,Supported,2025-07-24,cpe:/a:mozilla:firefox:4.9.2
+sw-0042,Mozilla,Thunderbird,4.5.1,Supported,2026-03-04,cpe:/a:mozilla:thunderbird:4.5.1
+sw-0043,Mozilla,Thunderbird,12.2.9,Supported,2026-07-31,cpe:/a:mozilla:thunderbird:12.2.9
+sw-0044,Mozilla,Thunderbird,2.7.12,Supported,2026-03-12,cpe:/a:mozilla:thunderbird:2.7.12
+sw-0045,Cisco,Webex,6.5.15,OutOfSupport,2023-11-27,cpe:/a:cisco:webex:6.5.15
+sw-0046,Cisco,AnyConnect,9.6.2,Supported,2025-04-09,cpe:/a:cisco:anyconnect:9.6.2
+sw-0047,Cisco,AnyConnect,5.3.5,Supported,2025-05-14,cpe:/a:cisco:anyconnect:5.3.5
+sw-0048,Cisco,Umbrella,6.5.16,Supported,2026-09-25,cpe:/a:cisco:umbrella:6.5.16
+sw-0049,Cisco,Umbrella,2.7.18,Supported,2026-12-05,cpe:/a:cisco:umbrella:2.7.18
+sw-0050,Cisco,Umbrella,6.9.3,Supported,2025-10-11,cpe:/a:cisco:umbrella:6.9.3
+sw-0051,VMware,Workstation,12.0.13,Supported,2025-07-17,cpe:/a:vmware:workstation:12.0.13
+sw-0052,VMware,Fusion,4.2.0,Supported,2025-03-10,cpe:/a:vmware:fusion:4.2.0
+sw-0053,VMware,Fusion,5.6.9,Supported,2025-03-13,cpe:/a:vmware:fusion:5.6.9
+sw-0054,VMware,Fusion,8.1.19,Supported,2026-11-03,cpe:/a:vmware:fusion:8.1.19
+sw-0055,VMware,vSphere,17.8.10,Supported,2026-09-01,cpe:/a:vmware:vsphere:17.8.10

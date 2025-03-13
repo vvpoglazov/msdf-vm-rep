@@ -1,0 +1,301 @@
+RemediationActivityId,CveId,DeviceId,StartDateKey,CompletionDateKey,RemediationStatus,AssignedTo,Priority,DaysOpen
+ra-0000,CVE-2020-2604,device-0016,20240516,,In Progress,David Brown,Medium,289
+ra-0001,CVE-2022-6031,device-0029,20240324,20240325.0,Completed,Alice Williams,Low,1
+ra-0002,CVE-2023-3645,device-0062,20240612,20240621.0,Completed,Alice Williams,High,9
+ra-0003,CVE-2024-1669,device-0077,20240804,20240814.0,Completed,Jane Doe,Medium,10
+ra-0004,CVE-2023-7538,device-0067,20240212,20240226.0,Completed,Bob Johnson,Medium,14
+ra-0005,CVE-2022-2356,device-0036,20240802,,In Progress,Jane Doe,Medium,211
+ra-0006,CVE-2022-9135,device-0099,20240319,,In Progress,Bob Johnson,High,347
+ra-0007,CVE-2022-2548,device-0050,20240118,20240203.0,Completed,Jane Doe,Medium,16
+ra-0008,CVE-2020-1575,device-0078,20240412,,In Progress,David Brown,Medium,323
+ra-0009,CVE-2022-9667,device-0012,20241116,,In Progress,John Smith,Critical,105
+ra-0010,CVE-2024-3672,device-0063,20240201,,Planned,Alice Williams,High,394
+ra-0011,CVE-2023-4959,device-0062,20240316,,In Progress,David Brown,Low,350
+ra-0012,CVE-2023-7610,device-0054,20240830,20240927.0,Completed,Jane Doe,High,28
+ra-0013,CVE-2021-3834,device-0070,20240215,,Not Started,Jane Doe,High,380
+ra-0014,CVE-2023-9143,device-0069,20241222,20250201.0,Completed,Jane Doe,Medium,41
+ra-0015,CVE-2022-2455,device-0036,20240521,20240629.0,Completed,Bob Johnson,Medium,39
+ra-0016,CVE-2021-6341,device-0057,20240118,,In Progress,Jane Doe,Critical,408
+ra-0017,CVE-2020-7609,device-0091,20241015,,In Progress,Jane Doe,Medium,137
+ra-0018,CVE-2024-2449,device-0085,20241120,20241206.0,Completed,Alice Williams,Medium,16
+ra-0019,CVE-2023-1619,device-0062,20240217,20240229.0,Completed,Jane Doe,Medium,12
+ra-0020,CVE-2020-6574,device-0027,20240320,,In Progress,David Brown,Low,346
+ra-0021,CVE-2023-1785,device-0025,20240128,,Not Started,John Smith,High,398
+ra-0022,CVE-2024-8415,device-0077,20241102,20241204.0,Completed,Jane Doe,High,32
+ra-0023,CVE-2021-1968,device-0053,20250106,20250126.0,Completed,John Smith,High,20
+ra-0024,CVE-2023-3743,device-0071,20240606,20240710.0,Completed,Alice Williams,Medium,34
+ra-0025,CVE-2023-2555,device-0014,20250104,20250117.0,Completed,John Smith,Medium,13
+ra-0026,CVE-2021-3606,device-0057,20241212,20250109.0,Completed,John Smith,Medium,28
+ra-0027,CVE-2021-4356,device-0047,20240417,20240526.0,Completed,Alice Williams,High,39
+ra-0028,CVE-2022-2165,device-0088,20240214,20240228.0,Completed,David Brown,Low,14
+ra-0029,CVE-2021-8274,device-0055,20241006,,In Progress,David Brown,High,146
+ra-0030,CVE-2022-7284,device-0053,20240203,20240205.0,Completed,John Smith,Critical,2
+ra-0031,CVE-2020-2577,device-0093,20240627,20240717.0,Completed,Alice Williams,Low,20
+ra-0032,CVE-2024-7099,device-0073,20241023,20241110.0,Completed,Jane Doe,High,18
+ra-0033,CVE-2022-7012,device-0023,20240128,20240307.0,Completed,Jane Doe,Critical,39
+ra-0034,CVE-2024-9125,device-0045,20241120,20241130.0,Completed,Jane Doe,Low,10
+ra-0035,CVE-2023-4054,device-0036,20240717,20240821.0,Completed,Bob Johnson,Medium,35
+ra-0036,CVE-2021-9033,device-0023,20241205,,In Progress,John Smith,High,86
+ra-0037,CVE-2023-6409,device-0047,20240611,20240720.0,Completed,John Smith,High,39
+ra-0038,CVE-2022-4778,device-0028,20250114,,Not Started,John Smith,Medium,46
+ra-0039,CVE-2022-4638,device-0056,20240707,20240808.0,Completed,David Brown,Medium,32
+ra-0040,CVE-2020-1054,device-0026,20240502,,Planned,John Smith,Low,303
+ra-0041,CVE-2024-2449,device-0080,20240323,,In Progress,Bob Johnson,Low,343
+ra-0042,CVE-2024-8479,device-0003,20241028,20241108.0,Completed,Bob Johnson,Low,11
+ra-0043,CVE-2021-2750,device-0055,20240207,20240308.0,Completed,Bob Johnson,Medium,30
+ra-0044,CVE-2022-7591,device-0007,20241123,20241209.0,Completed,John Smith,Critical,16
+ra-0045,CVE-2023-7538,device-0086,20240722,,In Progress,John Smith,Medium,222
+ra-0046,CVE-2020-6574,device-0063,20240914,,Not Started,Alice Williams,Medium,168
+ra-0047,CVE-2021-8870,device-0068,20240406,,In Progress,David Brown,Low,329
+ra-0048,CVE-2023-7610,device-0064,20240307,20240407.0,Completed,Bob Johnson,High,31
+ra-0049,CVE-2020-7731,device-0071,20250115,20250212.0,Completed,Bob Johnson,Critical,28
+ra-0050,CVE-2022-9135,device-0079,20240317,20240322.0,Completed,Alice Williams,High,5
+ra-0051,CVE-2020-6793,device-0035,20241016,20241119.0,Completed,Bob Johnson,Low,34
+ra-0052,CVE-2020-8901,device-0004,20241210,,In Progress,Jane Doe,High,81
+ra-0053,CVE-2020-6472,device-0090,20240725,20240810.0,Completed,David Brown,Medium,16
+ra-0054,CVE-2022-5263,device-0065,20241029,,Not Started,Jane Doe,Medium,123
+ra-0055,CVE-2023-2646,device-0005,20240114,20240222.0,Completed,Alice Williams,Low,39
+ra-0056,CVE-2024-7683,device-0026,20240919,20241022.0,Completed,John Smith,Low,33
+ra-0057,CVE-2021-6238,device-0078,20240124,20240207.0,Completed,John Smith,Low,14
+ra-0058,CVE-2020-4186,device-0019,20250105,20250121.0,Completed,Alice Williams,Low,16
+ra-0059,CVE-2021-8274,device-0072,20241009,,Not Started,Jane Doe,High,143
+ra-0060,CVE-2020-5937,device-0016,20240218,20240307.0,Completed,Jane Doe,Low,18
+ra-0061,CVE-2020-6472,device-0012,20241108,20241128.0,Completed,Alice Williams,Medium,20
+ra-0062,CVE-2020-6760,device-0034,20240307,,In Progress,David Brown,High,359
+ra-0063,CVE-2023-6409,device-0093,20241208,20241222.0,Completed,John Smith,High,14
+ra-0064,CVE-2020-4186,device-0069,20241003,,In Progress,Bob Johnson,Low,149
+ra-0065,CVE-2022-7413,device-0096,20241021,,In Progress,David Brown,Medium,131
+ra-0066,CVE-2022-2455,device-0055,20240712,,Not Started,Alice Williams,High,232
+ra-0067,CVE-2021-3989,device-0070,20240728,20240907.0,Completed,John Smith,Medium,41
+ra-0068,CVE-2022-9135,device-0056,20241209,,In Progress,Jane Doe,High,82
+ra-0069,CVE-2021-4267,device-0053,20240515,,Planned,Alice Williams,Low,290
+ra-0070,CVE-2023-7538,device-0092,20241002,,In Progress,Bob Johnson,Low,150
+ra-0071,CVE-2021-2750,device-0024,20241103,20241121.0,Completed,David Brown,Medium,18
+ra-0072,CVE-2024-1294,device-0047,20240221,20240320.0,Completed,David Brown,Low,28
+ra-0073,CVE-2024-9182,device-0015,20240204,,Planned,John Smith,Critical,391
+ra-0074,CVE-2022-4390,device-0051,20240519,20240610.0,Completed,John Smith,Low,22
+ra-0075,CVE-2023-1955,device-0078,20250119,20250127.0,Completed,Jane Doe,High,8
+ra-0076,CVE-2023-3187,device-0093,20240725,,Not Started,Jane Doe,High,219
+ra-0077,CVE-2024-7099,device-0037,20240616,20240725.0,Completed,John Smith,High,39
+ra-0078,CVE-2021-4699,device-0038,20241017,,Not Started,John Smith,Medium,135
+ra-0079,CVE-2021-3297,device-0012,20240525,20240526.0,Completed,Alice Williams,Low,1
+ra-0080,CVE-2021-7024,device-0047,20241206,,Planned,David Brown,High,85
+ra-0081,CVE-2020-6574,device-0018,20240123,20240306.0,Completed,Alice Williams,Medium,43
+ra-0082,CVE-2022-9946,device-0068,20240831,20240911.0,Completed,David Brown,Low,11
+ra-0083,CVE-2024-5357,device-0022,20240218,20240226.0,Completed,Jane Doe,Low,8
+ra-0084,CVE-2021-4267,device-0061,20240605,,In Progress,David Brown,Low,269
+ra-0085,CVE-2021-8638,device-0032,20240129,20240221.0,Completed,Jane Doe,Critical,23
+ra-0086,CVE-2023-1770,device-0092,20240621,,Not Started,Jane Doe,High,253
+ra-0087,CVE-2024-1687,device-0049,20241116,20241207.0,Completed,Bob Johnson,Medium,21
+ra-0088,CVE-2024-8415,device-0098,20250124,,Planned,David Brown,High,36
+ra-0089,CVE-2023-8295,device-0064,20241007,20241120.0,Completed,Jane Doe,Critical,44
+ra-0090,CVE-2022-2548,device-0094,20241026,20241114.0,Completed,John Smith,Medium,19
+ra-0091,CVE-2021-2932,device-0026,20240113,,Not Started,Jane Doe,Low,413
+ra-0092,CVE-2020-5795,device-0096,20241006,20241117.0,Completed,Jane Doe,Critical,42
+ra-0093,CVE-2021-6238,device-0008,20250120,20250219.0,Completed,Bob Johnson,Low,30
+ra-0094,CVE-2023-7610,device-0099,20240113,,In Progress,John Smith,High,413
+ra-0095,CVE-2023-4456,device-0069,20240527,20240703.0,Completed,Jane Doe,High,37
+ra-0096,CVE-2021-3834,device-0061,20240403,20240515.0,Completed,Jane Doe,High,42
+ra-0097,CVE-2022-3242,device-0026,20240128,20240310.0,Completed,Alice Williams,Medium,42
+ra-0098,CVE-2021-9467,device-0078,20240701,,Planned,David Brown,Low,243
+ra-0099,CVE-2020-9835,device-0088,20241123,20241216.0,Completed,Alice Williams,Critical,23
+ra-0100,CVE-2021-1674,device-0077,20241105,20241206.0,Completed,Bob Johnson,Low,31
+ra-0101,CVE-2021-4267,device-0011,20240222,,Planned,Alice Williams,Low,373
+ra-0102,CVE-2020-8901,device-0027,20240807,20240814.0,Completed,Bob Johnson,High,7
+ra-0103,CVE-2024-5090,device-0066,20241012,,Planned,Jane Doe,Critical,140
+ra-0104,CVE-2024-9125,device-0077,20241023,,Planned,David Brown,Medium,129
+ra-0105,CVE-2020-9569,device-0011,20240322,20240412.0,Completed,David Brown,Medium,21
+ra-0106,CVE-2024-1139,device-0039,20241228,20250105.0,Completed,John Smith,High,8
+ra-0107,CVE-2020-6760,device-0076,20240223,,Not Started,John Smith,High,372
+ra-0108,CVE-2024-2449,device-0059,20241224,20241225.0,Completed,Alice Williams,Medium,1
+ra-0109,CVE-2022-8480,device-0017,20241111,20241205.0,Completed,Jane Doe,Critical,24
+ra-0110,CVE-2021-8870,device-0024,20240219,,Planned,Jane Doe,Low,376
+ra-0111,CVE-2022-2724,device-0040,20240403,20240509.0,Completed,John Smith,Low,36
+ra-0112,CVE-2023-2080,device-0015,20241209,20241217.0,Completed,Jane Doe,Critical,8
+ra-0113,CVE-2023-9676,device-0067,20240711,,In Progress,John Smith,High,233
+ra-0114,CVE-2020-7609,device-0002,20241120,,In Progress,Alice Williams,Medium,101
+ra-0115,CVE-2021-9554,device-0093,20240429,20240603.0,Completed,John Smith,Medium,35
+ra-0116,CVE-2021-8629,device-0037,20250128,,Not Started,Alice Williams,Medium,32
+ra-0117,CVE-2022-8480,device-0091,20240911,,Planned,John Smith,Critical,171
+ra-0118,CVE-2021-6482,device-0014,20240417,,Planned,Jane Doe,Medium,318
+ra-0119,CVE-2022-2548,device-0003,20240602,,In Progress,Bob Johnson,Medium,272
+ra-0120,CVE-2021-9070,device-0085,20240820,20240904.0,Completed,David Brown,Medium,15
+ra-0121,CVE-2020-5795,device-0084,20240706,20240711.0,Completed,John Smith,Critical,5
+ra-0122,CVE-2020-7980,device-0017,20240528,20240701.0,Completed,John Smith,Low,34
+ra-0123,CVE-2024-5090,device-0023,20240811,20240918.0,Completed,Alice Williams,Critical,38
+ra-0124,CVE-2021-3606,device-0058,20240828,,Planned,Alice Williams,Medium,185
+ra-0125,CVE-2024-3672,device-0042,20240209,20240319.0,Completed,David Brown,High,39
+ra-0126,CVE-2022-9252,device-0067,20241006,20241008.0,Completed,Alice Williams,Critical,2
+ra-0127,CVE-2022-6842,device-0022,20240725,,In Progress,Bob Johnson,High,219
+ra-0128,CVE-2022-2724,device-0052,20240910,,Not Started,Alice Williams,Low,172
+ra-0129,CVE-2022-7241,device-0042,20241224,20241229.0,Completed,Bob Johnson,Medium,5
+ra-0130,CVE-2024-5557,device-0079,20240601,,In Progress,David Brown,Low,273
+ra-0131,CVE-2024-7683,device-0085,20250110,20250218.0,Completed,Alice Williams,Medium,39
+ra-0132,CVE-2023-1619,device-0060,20240501,,In Progress,Jane Doe,Low,304
+ra-0133,CVE-2020-1575,device-0007,20241215,,In Progress,John Smith,Medium,76
+ra-0134,CVE-2020-7609,device-0085,20240525,,In Progress,John Smith,Medium,280
+ra-0135,CVE-2021-9070,device-0093,20240314,20240327.0,Completed,John Smith,Medium,13
+ra-0136,CVE-2023-1785,device-0062,20240521,20240529.0,Completed,Bob Johnson,Medium,8
+ra-0137,CVE-2021-4093,device-0032,20241217,,In Progress,Jane Doe,Medium,74
+ra-0138,CVE-2024-8415,device-0045,20240702,,In Progress,Bob Johnson,High,242
+ra-0139,CVE-2020-9569,device-0080,20250108,20250204.0,Completed,John Smith,Low,27
+ra-0140,CVE-2023-6409,device-0096,20240107,,In Progress,John Smith,High,419
+ra-0141,CVE-2020-7588,device-0057,20250126,,Planned,Jane Doe,Low,34
+ra-0142,CVE-2022-7645,device-0025,20240930,20241020.0,Completed,Bob Johnson,Medium,20
+ra-0143,CVE-2020-9984,device-0097,20240621,20240714.0,Completed,Bob Johnson,Low,23
+ra-0144,CVE-2020-7124,device-0067,20240830,20241010.0,Completed,Alice Williams,Medium,41
+ra-0145,CVE-2023-3428,device-0087,20240820,,Not Started,John Smith,Medium,193
+ra-0146,CVE-2024-8686,device-0048,20240303,,In Progress,John Smith,Low,363
+ra-0147,CVE-2022-6445,device-0068,20240109,20240206.0,Completed,Alice Williams,Medium,28
+ra-0148,CVE-2022-7353,device-0014,20240513,,Planned,David Brown,High,292
+ra-0149,CVE-2021-3989,device-0029,20240408,20240420.0,Completed,David Brown,Low,12
+ra-0150,CVE-2024-1294,device-0084,20240229,,In Progress,Jane Doe,Low,366
+ra-0151,CVE-2024-5357,device-0028,20240421,,In Progress,David Brown,Low,314
+ra-0152,CVE-2020-8901,device-0017,20250109,20250216.0,Completed,Alice Williams,Medium,38
+ra-0153,CVE-2024-1687,device-0083,20240719,,Planned,David Brown,Medium,225
+ra-0154,CVE-2020-6760,device-0008,20240902,20240921.0,Completed,Bob Johnson,High,19
+ra-0155,CVE-2023-1619,device-0099,20240127,,In Progress,Jane Doe,Medium,399
+ra-0156,CVE-2023-6409,device-0039,20240814,20240914.0,Completed,David Brown,Medium,31
+ra-0157,CVE-2021-4356,device-0008,20250127,20250209.0,Completed,Jane Doe,Medium,13
+ra-0158,CVE-2021-6347,device-0037,20240407,20240428.0,Completed,Bob Johnson,Medium,21
+ra-0159,CVE-2021-2750,device-0091,20240215,,Not Started,John Smith,Medium,380
+ra-0160,CVE-2020-2772,device-0070,20240108,20240125.0,Completed,Alice Williams,Critical,17
+ra-0161,CVE-2024-3433,device-0036,20241026,20241203.0,Completed,Bob Johnson,Critical,38
+ra-0162,CVE-2020-7748,device-0093,20240918,20241025.0,Completed,Bob Johnson,Critical,37
+ra-0163,CVE-2020-7361,device-0056,20240719,,Not Started,Alice Williams,High,225
+ra-0164,CVE-2022-2165,device-0099,20240914,20240922.0,Completed,Jane Doe,Medium,8
+ra-0165,CVE-2023-1785,device-0064,20241128,20241230.0,Completed,David Brown,High,32
+ra-0166,CVE-2020-6995,device-0077,20241105,,In Progress,David Brown,Low,116
+ra-0167,CVE-2024-8415,device-0062,20240119,20240225.0,Completed,Alice Williams,High,37
+ra-0168,CVE-2023-1955,device-0056,20240803,20240821.0,Completed,Alice Williams,High,18
+ra-0169,CVE-2021-8629,device-0038,20240330,,In Progress,Jane Doe,Low,336
+ra-0170,CVE-2023-2555,device-0085,20240801,20240813.0,Completed,David Brown,High,12
+ra-0171,CVE-2024-5242,device-0068,20240914,20241012.0,Completed,Bob Johnson,Medium,28
+ra-0172,CVE-2024-5805,device-0040,20240216,20240316.0,Completed,John Smith,High,29
+ra-0173,CVE-2024-9182,device-0027,20241207,20250117.0,Completed,Alice Williams,Critical,41
+ra-0174,CVE-2023-6409,device-0088,20240626,,Planned,Bob Johnson,High,248
+ra-0175,CVE-2024-4374,device-0006,20240908,20240923.0,Completed,Jane Doe,Medium,15
+ra-0176,CVE-2022-5005,device-0089,20241211,,In Progress,Jane Doe,High,80
+ra-0177,CVE-2023-9676,device-0076,20240127,20240206.0,Completed,John Smith,High,10
+ra-0178,CVE-2024-3672,device-0022,20240827,20240920.0,Completed,Alice Williams,High,24
+ra-0179,CVE-2021-3854,device-0042,20240919,20241009.0,Completed,John Smith,High,20
+ra-0180,CVE-2023-7294,device-0012,20241224,20250110.0,Completed,Jane Doe,Medium,17
+ra-0181,CVE-2023-5114,device-0007,20240422,,Not Started,Alice Williams,Low,313
+ra-0182,CVE-2021-6238,device-0001,20240712,20240820.0,Completed,David Brown,Low,39
+ra-0183,CVE-2020-1575,device-0011,20240811,20240908.0,Completed,Alice Williams,Medium,28
+ra-0184,CVE-2021-2591,device-0049,20250121,20250128.0,Completed,David Brown,Medium,7
+ra-0185,CVE-2023-6409,device-0033,20240814,,In Progress,Bob Johnson,High,199
+ra-0186,CVE-2024-1669,device-0049,20241210,,Planned,John Smith,Medium,81
+ra-0187,CVE-2021-6476,device-0078,20241014,,Planned,Jane Doe,Medium,138
+ra-0188,CVE-2023-3305,device-0019,20240314,20240407.0,Completed,Alice Williams,High,24
+ra-0189,CVE-2020-6574,device-0039,20240711,20240715.0,Completed,David Brown,Medium,4
+ra-0190,CVE-2023-2080,device-0022,20241025,,In Progress,John Smith,Critical,127
+ra-0191,CVE-2020-8361,device-0012,20250118,,In Progress,John Smith,Medium,42
+ra-0192,CVE-2021-2932,device-0012,20240708,,In Progress,John Smith,Low,236
+ra-0193,CVE-2023-4959,device-0095,20240920,20241030.0,Completed,Bob Johnson,Low,40
+ra-0194,CVE-2023-3187,device-0043,20241224,20250114.0,Completed,Jane Doe,High,21
+ra-0195,CVE-2022-2548,device-0079,20241012,20241031.0,Completed,John Smith,Medium,19
+ra-0196,CVE-2021-1270,device-0084,20241226,,In Progress,Bob Johnson,Medium,65
+ra-0197,CVE-2020-7748,device-0070,20240321,20240327.0,Completed,Jane Doe,Critical,6
+ra-0198,CVE-2023-4808,device-0058,20240811,20240816.0,Completed,Alice Williams,High,5
+ra-0199,CVE-2022-4390,device-0093,20240624,20240709.0,Completed,Alice Williams,Low,15
+ra-0200,CVE-2021-4267,device-0043,20240215,,Planned,David Brown,Low,380
+ra-0201,CVE-2023-1770,device-0008,20240721,,In Progress,John Smith,High,223
+ra-0202,CVE-2021-8638,device-0058,20240121,,Not Started,David Brown,Critical,405
+ra-0203,CVE-2023-5806,device-0072,20240301,20240410.0,Completed,Bob Johnson,Critical,40
+ra-0204,CVE-2020-9365,device-0064,20240501,20240609.0,Completed,Alice Williams,Low,39
+ra-0205,CVE-2020-7731,device-0004,20240422,,In Progress,David Brown,Critical,313
+ra-0206,CVE-2021-1630,device-0031,20240827,,Planned,Jane Doe,High,186
+ra-0207,CVE-2024-5805,device-0011,20240830,20241007.0,Completed,Alice Williams,High,38
+ra-0208,CVE-2022-3242,device-0010,20241007,20241029.0,Completed,Bob Johnson,Medium,22
+ra-0209,CVE-2024-3547,device-0098,20240810,,In Progress,Alice Williams,High,203
+ra-0210,CVE-2023-4959,device-0097,20240104,20240108.0,Completed,Alice Williams,Low,4
+ra-0211,CVE-2022-1040,device-0008,20240320,,In Progress,John Smith,Medium,346
+ra-0212,CVE-2023-7294,device-0044,20240210,20240229.0,Completed,David Brown,Medium,19
+ra-0213,CVE-2023-1364,device-0002,20241019,20241104.0,Completed,David Brown,Low,16
+ra-0214,CVE-2023-4054,device-0051,20241123,,Not Started,Jane Doe,Medium,98
+ra-0215,CVE-2022-1264,device-0068,20240809,20240825.0,Completed,Jane Doe,High,16
+ra-0216,CVE-2023-4808,device-0046,20240926,,In Progress,David Brown,High,156
+ra-0217,CVE-2023-3645,device-0063,20240721,20240822.0,Completed,Bob Johnson,High,32
+ra-0218,CVE-2020-5017,device-0021,20240610,20240622.0,Completed,John Smith,Medium,12
+ra-0219,CVE-2023-8295,device-0044,20240318,,Not Started,Jane Doe,Critical,348
+ra-0220,CVE-2021-9467,device-0017,20240726,,Planned,Jane Doe,Low,218
+ra-0221,CVE-2021-9070,device-0068,20241206,20250119.0,Completed,Alice Williams,Medium,44
+ra-0222,CVE-2020-4186,device-0092,20241020,,In Progress,Bob Johnson,Low,132
+ra-0223,CVE-2020-2772,device-0050,20240119,,In Progress,John Smith,Critical,407
+ra-0224,CVE-2022-7012,device-0012,20240707,20240810.0,Completed,Bob Johnson,Critical,34
+ra-0225,CVE-2024-9599,device-0047,20240823,20240902.0,Completed,Jane Doe,Critical,10
+ra-0226,CVE-2024-1074,device-0070,20241108,,Not Started,Jane Doe,Medium,113
+ra-0227,CVE-2024-5357,device-0003,20240916,20241030.0,Completed,David Brown,Low,44
+ra-0228,CVE-2020-4471,device-0060,20241126,20241209.0,Completed,Alice Williams,Low,13
+ra-0229,CVE-2023-9143,device-0024,20240424,20240512.0,Completed,Alice Williams,Medium,18
+ra-0230,CVE-2022-4638,device-0043,20240521,20240523.0,Completed,Jane Doe,Medium,2
+ra-0231,CVE-2024-5805,device-0076,20240527,20240701.0,Completed,John Smith,Medium,35
+ra-0232,CVE-2022-1264,device-0099,20240224,20240404.0,Completed,David Brown,High,40
+ra-0233,CVE-2021-9554,device-0001,20241206,20250117.0,Completed,David Brown,High,42
+ra-0234,CVE-2022-4778,device-0052,20241231,20250123.0,Completed,John Smith,Medium,23
+ra-0235,CVE-2023-4808,device-0066,20240111,20240215.0,Completed,Bob Johnson,Medium,35
+ra-0236,CVE-2024-7099,device-0030,20241213,20250114.0,Completed,Alice Williams,High,32
+ra-0237,CVE-2020-8094,device-0074,20241213,,Planned,Jane Doe,Medium,78
+ra-0238,CVE-2024-2749,device-0033,20240815,,In Progress,David Brown,Medium,198
+ra-0239,CVE-2022-5263,device-0065,20240506,,Planned,Jane Doe,High,299
+ra-0240,CVE-2021-9712,device-0037,20240701,,In Progress,John Smith,Medium,243
+ra-0241,CVE-2024-8479,device-0042,20240405,20240511.0,Completed,Alice Williams,Low,36
+ra-0242,CVE-2021-8629,device-0057,20241121,,In Progress,Alice Williams,Medium,100
+ra-0243,CVE-2024-9125,device-0093,20240404,20240408.0,Completed,Jane Doe,Medium,4
+ra-0244,CVE-2020-8094,device-0068,20241121,,In Progress,John Smith,Medium,100
+ra-0245,CVE-2023-4054,device-0099,20240905,,Not Started,Bob Johnson,Medium,177
+ra-0246,CVE-2023-4054,device-0036,20240323,,Not Started,John Smith,Medium,343
+ra-0247,CVE-2021-6341,device-0080,20240506,20240517.0,Completed,Jane Doe,Critical,11
+ra-0248,CVE-2020-7588,device-0086,20240307,,In Progress,Jane Doe,Low,359
+ra-0249,CVE-2020-8094,device-0019,20240704,,In Progress,Jane Doe,Low,240
+ra-0250,CVE-2022-8480,device-0028,20241217,,Not Started,David Brown,Critical,74
+ra-0251,CVE-2020-7732,device-0022,20240219,20240223.0,Completed,Alice Williams,Critical,4
+ra-0252,CVE-2024-1687,device-0066,20241206,20241210.0,Completed,John Smith,Medium,4
+ra-0253,CVE-2022-2124,device-0069,20240514,20240515.0,Completed,Bob Johnson,Low,1
+ra-0254,CVE-2024-4750,device-0025,20240620,20240703.0,Completed,Alice Williams,Low,13
+ra-0255,CVE-2023-3743,device-0058,20240618,,In Progress,John Smith,Low,256
+ra-0256,CVE-2024-7683,device-0038,20240210,20240318.0,Completed,John Smith,Medium,37
+ra-0257,CVE-2020-4186,device-0044,20241217,,In Progress,Jane Doe,Low,74
+ra-0258,CVE-2021-6482,device-0073,20250116,20250208.0,Completed,Jane Doe,Medium,23
+ra-0259,CVE-2024-5090,device-0016,20241216,20250113.0,Completed,David Brown,Critical,28
+ra-0260,CVE-2024-8479,device-0014,20241222,,In Progress,Jane Doe,Low,69
+ra-0261,CVE-2020-8094,device-0052,20240528,20240530.0,Completed,David Brown,Medium,2
+ra-0262,CVE-2021-9033,device-0043,20240323,,Planned,Alice Williams,High,343
+ra-0263,CVE-2021-2290,device-0035,20241204,20250103.0,Completed,Alice Williams,Medium,30
+ra-0264,CVE-2023-6102,device-0012,20240725,20240803.0,Completed,Alice Williams,High,9
+ra-0265,CVE-2020-7980,device-0002,20240119,20240228.0,Completed,John Smith,Medium,40
+ra-0266,CVE-2021-6347,device-0045,20240522,20240615.0,Completed,David Brown,Low,24
+ra-0267,CVE-2020-7124,device-0050,20240303,,Planned,John Smith,Medium,363
+ra-0268,CVE-2024-5805,device-0005,20240725,20240805.0,Completed,Jane Doe,High,11
+ra-0269,CVE-2024-1669,device-0096,20241201,20250103.0,Completed,David Brown,Medium,33
+ra-0270,CVE-2021-3834,device-0056,20241026,,Not Started,David Brown,Medium,126
+ra-0271,CVE-2021-2750,device-0099,20240528,20240618.0,Completed,David Brown,Medium,21
+ra-0272,CVE-2020-7588,device-0005,20240313,20240327.0,Completed,John Smith,Low,14
+ra-0273,CVE-2024-3672,device-0033,20240225,,In Progress,Alice Williams,Medium,370
+ra-0274,CVE-2022-8480,device-0001,20240805,,Not Started,Jane Doe,Critical,208
+ra-0275,CVE-2021-1775,device-0069,20240530,20240629.0,Completed,David Brown,Low,30
+ra-0276,CVE-2023-8062,device-0095,20241031,20241214.0,Completed,Bob Johnson,Critical,44
+ra-0277,CVE-2024-8479,device-0030,20250125,,Not Started,Alice Williams,Low,35
+ra-0278,CVE-2021-2980,device-0043,20240216,20240319.0,Completed,Bob Johnson,High,32
+ra-0279,CVE-2022-2548,device-0044,20240714,,In Progress,Alice Williams,Medium,230
+ra-0280,CVE-2020-5744,device-0095,20240720,20240811.0,Completed,John Smith,High,22
+ra-0281,CVE-2022-9946,device-0078,20240927,,In Progress,Alice Williams,Low,155
+ra-0282,CVE-2021-9070,device-0041,20240831,20240911.0,Completed,David Brown,Low,11
+ra-0283,CVE-2021-8629,device-0018,20240902,20240926.0,Completed,Jane Doe,Low,24
+ra-0284,CVE-2024-3672,device-0054,20240719,,In Progress,Alice Williams,Medium,225
+ra-0285,CVE-2021-2932,device-0007,20250119,20250224.0,Completed,David Brown,Low,36
+ra-0286,CVE-2023-3645,device-0049,20240124,,Planned,David Brown,High,402
+ra-0287,CVE-2023-3645,device-0029,20240101,,In Progress,Bob Johnson,Medium,425
+ra-0288,CVE-2024-1139,device-0088,20241214,20241230.0,Completed,Alice Williams,Medium,16
+ra-0289,CVE-2022-5263,device-0081,20240610,20240703.0,Completed,John Smith,High,23
+ra-0290,CVE-2023-2555,device-0047,20240528,20240628.0,Completed,David Brown,High,31
+ra-0291,CVE-2022-4638,device-0089,20241208,,Planned,Jane Doe,Medium,83
+ra-0292,CVE-2024-5557,device-0071,20240411,20240513.0,Completed,Jane Doe,Low,32
+ra-0293,CVE-2021-8569,device-0048,20240818,,Not Started,Bob Johnson,Medium,195
+ra-0294,CVE-2020-4471,device-0094,20250118,,Not Started,Jane Doe,Low,42
+ra-0295,CVE-2022-2356,device-0098,20240918,20240923.0,Completed,Bob Johnson,Medium,5
+ra-0296,CVE-2024-1294,device-0042,20240426,20240502.0,Completed,John Smith,Low,6
+ra-0297,CVE-2021-2435,device-0070,20250117,,Planned,Bob Johnson,Medium,43
+ra-0298,CVE-2022-7591,device-0068,20240130,20240218.0,Completed,Alice Williams,Critical,19
+ra-0299,CVE-2023-7294,device-0054,20241130,20250113.0,Completed,David Brown,Medium,44
